@@ -9,3 +9,8 @@ footer {
 header {
     text-align: center;
 }
+
+.btn {
+    transition: ease-out;
+    transition-duration: .35s;
+}
